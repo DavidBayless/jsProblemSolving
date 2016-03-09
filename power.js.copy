@@ -1,0 +1,6 @@
+function power() {
+  return(2 * 2);
+}
+
+var result = power();
+console.log(result);
